@@ -6,6 +6,7 @@ module Jekyll
       IMPORTERS = {
         :blogger         => "Blogger",
         :behance         => "Behance",
+        :cloudscribesql  => "CloudScribeSQL",
         :csv             => "CSV",
         :drupal6         => "Drupal6",
         :drupal7         => "Drupal7",
@@ -21,6 +22,7 @@ module Jekyll
         :posterous       => "Posterous",
         :rss             => "RSS",
         :s9y             => "S9Y",
+        :test            => "Test",
         :textpattern     => "TextPattern",
         :tumblr          => "Tumblr",
         :typo            => "Typo",
